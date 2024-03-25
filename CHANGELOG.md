@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.4.8
+
+### Patch Changes
+
+- [`61a617c`](https://github.com/changesets/action/commit/61a617cdac0c28a4e1de7672a6be01a62f621d96) Thanks [@bayoumymac](https://github.com/bayoumymac)! - push tag 1 by 1
+
 ## 1.4.7
 
 ### Patch Changes
